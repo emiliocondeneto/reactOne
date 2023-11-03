@@ -1,0 +1,12 @@
+.darkLight {
+    width: 100%;
+    min-height: 100vh;
+}
+
+.darkLight.dark {
+    background-color: #302d2d;
+}
+
+.darkLight.light {
+    background-color: #e2e2e2;
+}
